@@ -1,0 +1,45 @@
+.a1{
+  
+
+color: black;
+font-weight: bold;
+}
+
+.a2 {
+  display: flex;
+  justify-content: space-between;
+}
+p{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+.span{
+  background-color: red;
+  padding: 50px 50px 50px 50px;
+  gap: 10px;
+  color: white;
+  margin: 200px 200px;
+
+}
+.span{
+  background-color: red;
+  padding: 50px 50px 50px 50px;
+  gap: 10px;
+  color: white;
+  margin: 10px;
+font-weight: bold;
+
+}
+
+.a3{
+  display: flex;
+  align-items: flex-start;
+  gap: 100px;
+}
+
+
+ 
+  
+
+
